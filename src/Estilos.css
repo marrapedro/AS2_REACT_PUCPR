@@ -1,0 +1,18 @@
+body{
+    margin:5px;
+}
+
+button{
+    width: 100px;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    background-color: rgb(0, 224, 19);
+    color: black;
+    cursor: pointer;
+    margin: 3px;
+}
+
+button:hover{
+    background-color: rgb(51, 155, 74);
+}
